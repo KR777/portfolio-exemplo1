@@ -1,6 +1,6 @@
 # portfolio-exemplo1
 Exemplo de portfolio desenvolvido através do curso de HTML e CSS da Alura
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+lá, Bem vindo ao meu projeto de portfólio.
 
 ![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
 
@@ -14,10 +14,7 @@ Exemplo de portfolio desenvolvido através do curso de HTML e CSS da Alura
 
 ## Feito por:
 
-### Joana Santos
+### Kaio Rosalez 
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin:[ https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/kaio-rosalez/)
 
-```
-
-Veja que legal como fica a página inicial do repositório:
