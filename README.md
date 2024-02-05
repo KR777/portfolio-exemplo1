@@ -17,4 +17,3 @@ Exemplo de portfolio desenvolvido através do curso de HTML e CSS da Alura
 ### Kaio Rosalez 
 
 ### Linkedin:[ https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/kaio-rosalez/)
-
